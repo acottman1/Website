@@ -1,3 +1,39 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+# disqusShortname = "spf13" used to enable comments on the site
+# Enable gogle analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-minimalist-theme"
+
+
+[params]
+    site_author = "Aron R. Cottman"
+    site_description = "The awesome blog of John Doe."
+    location = "Earth"
+    # Link custom assets relative to /static
+    avatar = "img/profile-image.png"
+    header_background = "img/desk.jpg"
+    header_title = "Check this out yo!!!"
+    copyright = "Powered by [Hugo](http://gohugo.io)."
+    custom_css = []
+    custom_js  = []
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "arcottman1"
+    facebook  = ""
+    linkedin  = "acottman1"
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = "acottman1"
+    gplus     = ""
