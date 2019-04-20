@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "This is my website, there are many like it..."
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -15,8 +15,8 @@ theme = "hugo-minimalist-theme"
     site_description = "The awesome blog of John Doe."
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/pie_are_squared.png"
+    avatar = "img/pie_are_squared.png"
+    header_background = "img/kids.jpg"
     header_title = "Check me out im on the interwebs and stuff!!!"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
